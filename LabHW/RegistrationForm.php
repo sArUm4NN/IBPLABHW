@@ -27,14 +27,17 @@
             margin-right: 500px;
             margin-left: 500px;
         }
-
+        
+        h1{
+            color: red;
+        }
 
     </style>
 
 </head>
 
 <body>
-
+    <h1 style="text-align: center">STUDENT REGISTRATION SYSTEM</h1>
 
 <div id="div1">
     <form action="DBconnection.php" method="post" target="_blank">
